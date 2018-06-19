@@ -1,0 +1,8 @@
+footer{
+    list-style-type: none;
+    margin: 0;
+    padding: 50px 50vh;
+    overflow: hidden;
+    background-color: #222!important;
+    width: 100%;
+}
